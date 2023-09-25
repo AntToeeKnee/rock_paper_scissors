@@ -6,6 +6,7 @@ console.log(computerSelectionName);
 //calls function and asks player for choice
 let playerSelection = getPlayerChoice();
 console.log(playerSelection);
+console.log("hello");
 
 playRound(computerSelectionName, playerSelection);
 
